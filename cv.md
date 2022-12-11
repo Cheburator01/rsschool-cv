@@ -1,13 +1,16 @@
-# Yakovlev Evgeniy
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEDcqp0VeiVFQ/profile-displayphoto-shrink_800_800/0/1607264989052?e=2147483647&v=beta&t=9PoLB1WbwRg-2UpWK79_zQp42m0auJ50_Nbb29rXCNg" alt="drawing" width="200"/>
+
+# Yakovlev Evgeniy 
 ## Design Engineer
 
 ----
 
 ### Contact:
 
-mail: yakovlev.94@bk.ru\
-phone: +375255145400\
-location: Minsk, Belarus
+mail: yakovlev.94@bk.ru;\
+phone: +375255145400;\
+location: Minsk, Belarus;\
+discord: Cheburator01.\
 
 ----
 
@@ -30,3 +33,31 @@ Accurate and attentive at work. At the same time active and hardworking in life.
       - design of building structures;
       - basic knowledge in HTML, CSS, SCSS;
       - driving a car.
+      
+## Code Example
+```<html>
+<head>
+    <title>HELLO WORLD!</title>
+</head>
+<body>
+    <p>
+       Hello World!
+       It is a Computer Program!
+    </p>
+</body>
+</html>
+```
+
+### Work experience
+
+I have been working for 3 years as a design engineer in ENECA company. 
+
+
+### Education
+
+2011-2014
+_MGPK. Industrial and civil construction._\
+2014-2019 _BNTU. Construction of thermal and nuclear power plants._\
+2019-2020 _BNTU. Magistracy_
+
+

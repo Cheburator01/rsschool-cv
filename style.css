@@ -24,6 +24,20 @@ body {
    border: 1px solid red;
 }
 
+.header {
+   background-color: #20254eda;
+}
+
+.header a {
+   text-decoration: none;
+   color: rgb(207, 198, 198);
+}
+
+.header a:hover {
+   text-decoration: underline;
+   color: rgb(240, 238, 121);
+}
+
 .container {
    max-width: 1440px;
    margin: 0 auto;
